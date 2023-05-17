@@ -1,0 +1,3 @@
+C:/Users/nami-pc/Desktop/AUCA_2023_SPRING/Algorithm Analysis/personal-git-repo-altynbek-y/cmake-build-debug/CMakeFiles/personal_git_repo_altynbek_y.dir
+C:/Users/nami-pc/Desktop/AUCA_2023_SPRING/Algorithm Analysis/personal-git-repo-altynbek-y/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nami-pc/Desktop/AUCA_2023_SPRING/Algorithm Analysis/personal-git-repo-altynbek-y/cmake-build-debug/CMakeFiles/rebuild_cache.dir
